@@ -1,0 +1,8 @@
+prefix=/home/s4mothy/Desktop/HI_THERE/programming/school/csci5551/project_botross/botross_ws/install
+
+Name: botros
+Description: Description of botros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

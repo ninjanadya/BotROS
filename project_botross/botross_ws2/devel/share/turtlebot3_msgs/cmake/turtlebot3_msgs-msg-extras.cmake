@@ -1,0 +1,2 @@
+set(turtlebot3_msgs_MESSAGE_FILES "/media/s4mothy/HI THERE/programming/school/csci5551/project_botross/botross_ws2/src/turtlebot3_msgs/msg/SensorState.msg;/media/s4mothy/HI THERE/programming/school/csci5551/project_botross/botross_ws2/src/turtlebot3_msgs/msg/VersionInfo.msg;/media/s4mothy/HI THERE/programming/school/csci5551/project_botross/botross_ws2/src/turtlebot3_msgs/msg/Sound.msg")
+set(turtlebot3_msgs_SERVICE_FILES "")

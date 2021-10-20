@@ -1,0 +1,8 @@
+prefix=/media/s4mothy/HI THERE/programming/school/csci5551/project_botross/botross_ws2/devel
+
+Name: botros
+Description: Description of botros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
